@@ -1,4 +1,4 @@
-# OSs-for-PenTesters
+# Pen-Testing Distributions
 Operating Systems for PenTesters
 
 | __OS__ | __Explanation__ | 
