@@ -1,7 +1,7 @@
 # Pen-Testing Distributions
 Distributions for PenTesters
 
-| __OS__ | __Explanation__ | 
+| __Distribution__ | __Explanation__ | 
 |-------------|------------|
 | [BackBoxLinux](https://backbox.org/download)         |    BackBox Linux is a penetration testing and security assessment oriented Linux distro  | 
 |    [BlackArckLinux](https://blackarch.org/index.html)      | BlackArch Linux is an Arch Linux-based penetration testing distribution for penetration testers and security researchers. The repository contains 1925 tools. You can install tools individually or in groups. BlackArch Linux is compatible with existing Arch installs. | 
