@@ -1,5 +1,5 @@
 # Pen-Testing Distributions
-Operating Systems for PenTesters
+Distributions for PenTesters
 
 | __OS__ | __Explanation__ | 
 |-------------|------------|
@@ -13,3 +13,10 @@ Operating Systems for PenTesters
 | [Vulnhub](https://www.vulnhub.com/)| OS with vulnerabilities for pentests|
 |[Cyborg Hawk Linux](https://sourceforge.net/projects/cyborghawk1/files/latest/download) |Cyborg Hawk Linux is a Ubuntu based Linux Hacking Distro also know as a Pentesting Linux Distro it is developed and designed for ethical hackers and penetration testers. |
 |[Anonym OS](https://sourceforge.net/projects/anonym-os/files/latest/download)|Anonym.OS was a Live CD operating system based on OpenBSD 3.8 with strong encryption and anonymization tools.|
+|[ArchStrike](https://archstrike.org/) | Arch GNU/Linux repository for security professionals and enthusiasts.|
+|[Network Security Toolkit (NST)](http://networksecuritytoolkit.org/) | Fedora-based bootable live operating system designed to provide easy access to best-of-breed open source network security applications.|
+|[Buscador](https://inteltechniques.com/buscador/) | GNU/Linux virtual machine that is pre-configured for online investigators.|
+|[The Pentesters Framework](https://github.com/trustedsec/ptf) | Distro organized around the Penetration Testing Execution Standard (PTES), providing a curated collection of utilities that eliminates often unused toolchains.|
+|[AttifyOS](https://github.com/adi0x90/attifyos) | GNU/Linux distribution focused on tools useful during Internet of Things (IoT) security assessments.|
+|[PentestBox](https://pentestbox.org/) | Opensource pre-configured portable penetration testing environment for Windows OS.|
+|[Android Tamer](https://androidtamer.com/) | OS for Android Security Professionals. Includes all the tools required for Android security testing.|
